@@ -47,15 +47,9 @@ Each example is its own app and is runnable with
 sbt "runMain example.Concept"
 ```
 
-
 ## Available examples
 
 | Problem | Solution |
 | ------------- | ------------- |
 | Polymorphic implementation of general function without using class inheritance | Type class |
 | Avoid polluting function signatures with configuration parameter | Kleisli |
-
-
-
-
-
