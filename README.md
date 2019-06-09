@@ -51,5 +51,5 @@ sbt "runMain example.Concept"
 
 | Problem | Solution |
 | ------------- | ------------- |
-| Polymorphic implementation of general function without using class inheritance | Type class |
-| Avoid polluting function signatures with configuration parameter | Kleisli (Reader) |
+| Polymorphic implementation of general function without using class inheritance | [Type class](https://github.com/mario-galic/scala-cats-examples/blob/master/src/main/scala/example/TypeClass.scala) |
+| Avoid polluting function signatures with configuration parameter | [Kleisli (Reader)](https://github.com/mario-galic/scala-cats-examples/blob/master/src/main/scala/example/Kleisli.scala) |
