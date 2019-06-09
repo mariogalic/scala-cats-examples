@@ -52,4 +52,4 @@ sbt "runMain example.Concept"
 | Problem | Solution |
 | ------------- | ------------- |
 | Polymorphic implementation of general function without using class inheritance | Type class |
-| Avoid polluting function signatures with configuration parameter | Kleisli |
+| Avoid polluting function signatures with configuration parameter | Kleisli (Reader) |
